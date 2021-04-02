@@ -73,8 +73,6 @@ if __name__ =="__main__":
         elif 'my name' in string:
             speak("your name is John cena")
 
-        elif 'open browser' in string:
-            webbrowser
         elif 'exit'in string:
             speak("Have a nice Day")
             exit()
