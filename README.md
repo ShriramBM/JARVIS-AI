@@ -1,15 +1,9 @@
-# TextUtils
-A tool for analyzing text data in Django 3 backend
+# JARVIS THE AI OF IRON MAN
 
-It is a simple django project or website in which we can Analyze text.
 
-<h1>What Can We do from textutils ?</h1>
-1)Remove Punctuations<br>
-2)UPPERCASE<br>
-3)New Line Remove<br>
-4)Extra Spaces Remover<br>
-5)Numbers Remover
+In our code Jarvis is going Wish you the Day.
+It will help you to find in wikipedia.
+it will open your favourite Application like YouTube, Google And so on. It depends on how the code is made.
+At last it exit if you say exit
 
-<h1>Requirments</h1>
-python3<br>
-django<br>
+Enjoy the Coding
